@@ -1,0 +1,4 @@
+def say (something)
+puts (something)
+end
+say "hello"
